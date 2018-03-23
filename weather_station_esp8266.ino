@@ -81,7 +81,7 @@ char* pass = "surfa200";
  
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-const char* auth = module1;
+const char* auth = module0;
 
 
 // Measurement interval (seconds)
