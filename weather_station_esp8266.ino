@@ -26,13 +26,27 @@
 *		B-   --> Battery -
 *
 **************************************************************/
-const char* module0 = "000102030405060708090a0b0c0d0e0f";	//test
-const char* module1 = "7c23865250e34c8e84435532625c6510";
-const char* module2 = "ec2e6bb785ae426b9d37c48eabd444b7";
-const char* module3 = "9a52bd2c6a0049b0b4d05bd4b646d38c";
-const char* module4 = "2d3eb9cff364493d86d4331adf30e39f";
-const char* module5 = "611eb127e3044fceb723ea9b86e2fcd7";
-const char* module6 = "6f4a783447da47c4ada4caf38633014e";
+
+//*****************Test module********************************/
+//const char* module = "000102030405060708090a0b0c0d0e0f";	
+
+//*****************Module1************************************/
+const char* module = "7c23865250e34c8e84435532625c6510";
+
+//*****************Module2************************************/
+//const char* module = "ec2e6bb785ae426b9d37c48eabd444b7";
+
+//*****************Module3************************************/
+//const char* module = "9a52bd2c6a0049b0b4d05bd4b646d38c";
+
+//*****************Module4************************************/
+//const char* module = "2d3eb9cff364493d86d4331adf30e39f";
+
+//*****************Module5************************************/
+//const char* module = "611eb127e3044fceb723ea9b86e2fcd7";
+
+//*****************Module6************************************/
+//const char* module = "6f4a783447da47c4ada4caf38633014e";
 
 
 
@@ -81,7 +95,7 @@ char* pass = "surfa200";
  
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-const char* auth = module0;
+const char* auth = module;
 
 
 // Measurement interval (seconds)
