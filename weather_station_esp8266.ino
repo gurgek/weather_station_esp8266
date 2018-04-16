@@ -1,8 +1,6 @@
 /*************************************************************
 * By Tobias 180323
 *
-* Module Number 0
-*
 * Blynk Auth Tokens
 *	Module 1: 7c23865250e34c8e84435532625c6510
 *	Module 2: ec2e6bb785ae426b9d37c48eabd444b7
